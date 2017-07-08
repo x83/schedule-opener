@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">日程調整を一発で開くやつ</string>
+    <string name="failed">失敗しました。ネットワーク状況などを確認してください。</string>
+    <string name="redirecting">リダイレクト中です…</string>
+</resources>
